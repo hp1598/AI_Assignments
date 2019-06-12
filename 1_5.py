@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)https://github.com/hp1598/AIassignments/blob/master/1_1.py -->
+<!-- saved from url=(0058)https://github.com/hp1598/AIassignments/blob/master/1_5.py -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
   <link rel="dns-prefetch" href="https://github.githubassets.com/">
@@ -12,9 +12,9 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-dsqgdBtnWun6oxDg9q1xezEyITXQ8QsMdFm+JDoDk6Tzx9AEE1XcUEhWff/M2Jv85ucTVJCjp/2fGbh6Omtrgg==" rel="stylesheet" href="./1_1_files/frameworks-41c2037bf12f1e46d8f08b88a04a8d8f.css">
+  <link crossorigin="anonymous" media="all" integrity="sha512-dsqgdBtnWun6oxDg9q1xezEyITXQ8QsMdFm+JDoDk6Tzx9AEE1XcUEhWff/M2Jv85ucTVJCjp/2fGbh6Omtrgg==" rel="stylesheet" href="./1_5_files/frameworks-41c2037bf12f1e46d8f08b88a04a8d8f.css">
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-n1/Sn4ahCjLOJgIY5GxsC7k3nVQQh98dP1VWD8IY4bRInT8s8JasCOxhuTytlkZb+CotYkJ0UKp/cmTgBtGxIw==" rel="stylesheet" href="./1_1_files/github-f37aa76d9a859bbd1f37f62042aaae62.css">
+    <link crossorigin="anonymous" media="all" integrity="sha512-n1/Sn4ahCjLOJgIY5GxsC7k3nVQQh98dP1VWD8IY4bRInT8s8JasCOxhuTytlkZb+CotYkJ0UKp/cmTgBtGxIw==" rel="stylesheet" href="./1_5_files/github-f37aa76d9a859bbd1f37f62042aaae62.css">
     
     
     
@@ -22,7 +22,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>AIassignments/1_1.py at master · hp1598/AIassignments</title>
+  <title>AIassignments/1_5.py at master · hp1598/AIassignments</title>
     <meta name="description" content="Contribute to hp1598/AIassignments development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="https://github.com/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -100,13 +100,13 @@
 
   <link rel="manifest" href="https://github.com/manifest.json" crossorigin="use-credentials">
 
-  <meta name="selected-link" value="repo_source" data-pjax-transient=""><meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient=""><meta name="request-id" content="EF34:202D:242F03:3370BA:5D012654" data-pjax-transient=""><link rel="canonical" href="https://github.com/hp1598/AIassignments/blob/master/1_1.py" data-pjax-transient=""><link href="https://github.com/hp1598/AIassignments/commits/master.atom" rel="alternate" title="Recent Commits to AIassignments:master" type="application/atom+xml" data-pjax-transient=""></head>
+  <meta name="selected-link" value="repo_source" data-pjax-transient=""><meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient=""><meta name="request-id" content="EF34:202D:2442D7:338DA0:5D01273A" data-pjax-transient=""><link rel="canonical" href="https://github.com/hp1598/AIassignments/blob/master/1_5.py" data-pjax-transient=""><link href="https://github.com/hp1598/AIassignments/commits/master.atom" rel="alternate" title="Recent Commits to AIassignments:master" type="application/atom+xml" data-pjax-transient=""></head>
 
   <body class="logged-in env-production min-width-lg intent-mouse">
     
 
   <div class="position-relative js-header-wrapper ">
-    <a href="https://github.com/hp1598/AIassignments/blob/master/1_1.py#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <a href="https://github.com/hp1598/AIassignments/blob/master/1_5.py#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress" style="transition: width 0.4s ease 0s; width: 100%;"></div></div>
 
     
@@ -131,7 +131,7 @@
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text" class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable" data-hotkey="s,/" name="q" value="" placeholder="Search or jump to…" data-unscoped-placeholder="Search or jump to…" data-scoped-placeholder="Search or jump to…" autocapitalize="off" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search or jump to…" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=2G6k2nk5yyAy8E4gbZUpn7WrS+RbRUtGGhnqGGjIK5WF5j0g3Nx1RU4QuSiW4UGTwtamhXxDrUTMmCPJaOYtzg==" spellcheck="false" autocomplete="off">
           <input type="hidden" class="js-site-search-type-field" name="type">
-            <img src="./1_1_files/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+            <img src="./1_5_files/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
               
@@ -139,14 +139,14 @@
   
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_1.py">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_5.py">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
     </div>
 
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_1.py" width="28" height="28">
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_5.py" width="28" height="28">
 
     <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
     </div>
@@ -180,14 +180,14 @@
   
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_1.py">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_5.py">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
     </div>
 
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_1.py" width="28" height="28">
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_5.py" width="28" height="28">
 
     <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
     </div>
@@ -212,14 +212,14 @@
   
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_1.py">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="https://github.com/hp1598/AIassignments/blob/master/1_5.py">
     <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
       <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"></path></svg>
       <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
     </div>
 
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_1.py" width="28" height="28">
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="https://github.com/hp1598/AIassignments/blob/master/1_5.py" width="28" height="28">
 
     <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
     </div>
@@ -243,7 +243,7 @@
 
 
     <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
-      <img src="./1_1_files/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+      <img src="./1_5_files/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
     </li>
 </ul>
 
@@ -332,7 +332,7 @@
       
 <details class="details-overlay details-reset">
   <summary class="Header-link" aria-label="View profile and more" data-ga-click="Header, show menu, icon:avatar" aria-haspopup="menu">
-    <img alt="@hp1598" class="avatar" src="./1_1_files/51377187" height="20" width="20">
+    <img alt="@hp1598" class="avatar" src="./1_5_files/51377187" height="20" width="20">
     <span class="dropdown-caret"></span>
   </summary>
   <details-menu class="dropdown-menu dropdown-menu-sw mt-2" style="width: 180px" role="menu">
@@ -583,10 +583,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --><form data-remote="true" class="clearfix js-social-form js-social-container" action="https://github.com/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="GbgEBp79HCBh1DMJXE9jnfS58ks5sCLUPhG45c0qdRjBWBSvJKdOamDsqNi8t/ms0TVm+eboYQLrFU9sfM6xFg==">      <input type="hidden" name="repository_id" value="191598912">
+    <!-- '"` --><!-- </textarea></xmp> --><form data-remote="true" class="clearfix js-social-form js-social-container" action="https://github.com/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="2XhUF91/v12ij5ouPq+H8IjlRPrL/jEJg8WTARb6TzABmES+ZyXtF6O3Af/eVx3BrWnQSBSmct9WwWSIpx6LPg==">      <input type="hidden" name="repository_id" value="191598912">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:242F03:3370BA:5D012654&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_1.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="44d10ea769b9b1f2216477edf4786fda5554665e98875e92afe67dd16a7bf98e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-haspopup="menu">          <span data-menu-button="">
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:2442D7:338DA0:5D01273A&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_5.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="c9e717a2dfaadce0c5e4000607c23acfab8cf85cf34ea830216b7647cd324125" data-ga-click="Repository, click Watch settings, action:blob#show" aria-haspopup="menu">          <span data-menu-button="">
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
               Watch
           </span>
@@ -653,17 +653,17 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --><form class="starred js-social-form" action="https://github.com/hp1598/AIassignments/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="Gx/oWvQ/3M25h7XFxgIhgXQkArjwwFN7CaAwezRJo40/OHHIWt50B0BNCBpQ5ihsD+lcIBopCRfDfJSJ++0zIA==">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="starred js-social-form" action="https://github.com/hp1598/AIassignments/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="jjXy0qGO00lgXPYi6g16MCf9HqSlG4ALxV6Y4OAsLFqqEmtAD297g5mWS/186XPdXDBAPE/y2mcPgjwSL4i89w==">
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar hp1598/AIassignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:242F03:3370BA:5D012654&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_1.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="1555dd583751903de83d2c2a32a519b015e9392ee7efee06b6f011c883117120" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar hp1598/AIassignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:2442D7:338DA0:5D01273A&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_5.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="405b08f0adb277daff5b8da92529dc0e5dac5e0f5b818905df94e5f265166b3f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="https://github.com/hp1598/AIassignments/stargazers" aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --><form class="unstarred js-social-form" action="https://github.com/hp1598/AIassignments/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="DfhD+O72bwM9m0VyYnml9oIbcrr/mmvHAxdV31KdxRaCTEqE1V5Ht36ACYBS2EoWb7dxIzMCjUMv/R5a2drTpw==">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="unstarred js-social-form" action="https://github.com/hp1598/AIassignments/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="JOEDlFlLKlMfwN96RYqRCSZ8T/BYM29ONhM82juJ+qSrVQroYuMC51zbk4h1K37py9BMaZSricoa+XdfsM7sFQ==">
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star hp1598/AIassignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:242F03:3370BA:5D012654&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_1.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="3c0a0e532c6492a43ae47927cd9a203c293b043c4aa7cc5c28631aee4760eade" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star hp1598/AIassignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:191598912,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:2442D7:338DA0:5D01273A&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_5.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="ff88d5eae1ed673544c599e19daffbaa9dbff166ddb109cb7db936fad60f6767" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="https://github.com/hp1598/AIassignments/stargazers" aria-label="0 users starred this repository">
           0
@@ -809,98 +809,45 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="https://github.com/hp1598/AIassignments/blob/263b17a9555dfdc0966f9c5dd42285623c27028d/1_1.py">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="https://github.com/hp1598/AIassignments/blob/263b17a9555dfdc0966f9c5dd42285623c27028d/1_5.py">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:00af4e8354bc09de7673ff1720379ee5 -->
+    <!-- blob contrib key: blob_contributors:v21:ec33dd1634b051cb51d05ecd36f77e53 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 mb-2 flex-column flex-md-row">
       <span class="d-flex flex-justify-between width-full width-md-auto">
         
-<details class="details-reset details-overlay select-menu branch-select-menu hx_rsm" id="branch-select-menu">
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
   <summary class="btn btn-sm select-menu-button css-truncate" data-hotkey="w" title="Switch branches or tags" aria-haspopup="menu">
     <i>Branch:</i>
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/hp1598/AIassignments/ref-list/master/1_1.py?source_action=show&amp;source_controller=blob" preload="" role="menu">
-    
-<div class="select-menu-header">
-  <span class="select-menu-title">Switch branches/tags</span>
-  <button class="hx_rsm-close-button d-none btn-link close-button" type="button" data-toggle-for="branch-select-menu"><svg aria-label="Close menu" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg></button>
-</div>
-
-<tab-container>
-  <div class="select-menu-filters">
-    <div class="select-menu-text-filter">
-      <input type="text" id="context-commitish-filter-field" class="form-control js-filterable-field" autofocus="" aria-label="Find or create a branch…" placeholder="Find or create a branch…">
-    </div>
-    <div class="select-menu-tabs" role="tablist">
-      <ul>
-        <li class="select-menu-tab">
-          <button type="button" class="select-menu-tab-nav" data-filter-placeholder="Find or create a branch…" role="tab" aria-selected="true">Branches</button>
-        </li>
-        <li class="select-menu-tab">
-          <button type="button" class="select-menu-tab-nav" data-filter-placeholder="Find a tag…" role="tab">Tags</button>
-        </li>
-      </ul>
-    </div>
-  </div>
-  
-  <div class="select-menu-list" role="tabpanel">
-    <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
-        <a class="select-menu-item" href="https://github.com/hp1598/AIassignments/blob/master/1_1.py" role="menuitemradio" aria-checked="true" rel="nofollow">
-          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
-          <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-            master
-          </span>
-        </a>
-    </div>
-  
-      <!-- '"` --><!-- </textarea></xmp> --><form class="select-menu-new-item-form js-new-item-form" action="https://github.com/hp1598/AIassignments/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="FoB0imo5Qzd48sVrFTgXd3Ijj+htGq+Ebin/Tgw3lpD+nsxtDg3fjlMb5SI5rJVLFm0DJbthrkvXlwHVIva7eA==">
-        <input type="hidden" name="name" id="name" class="js-new-item-value">
-        <input type="hidden" name="branch" id="branch" value="master">
-        <input type="hidden" name="path_binary" id="path_binary" value="MV8xLnB5">
-  
-        <button type="submit" class="width-full select-menu-item" role="menuitem">
-          <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
-          <div class="select-menu-item-text">
-            <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-            <span class="description">from ‘master’</span>
-          </div>
-        </button>
-</form>  
-  </div>
-  
-  <div class="select-menu-list filterable-empty" role="tabpanel" hidden="">
-    <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring" class="filterable-empty">
-    </div>
-  
-    <div class="select-menu-no-results">Nothing to show</div>
-  </div>
-</tab-container>
-
-  <div class="sr-only" data-filterable-notice="" aria-live="polite">0 results found.</div></details-menu>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/hp1598/AIassignments/ref-list/master/1_5.py?source_action=show&amp;source_controller=blob" preload="" role="menu">
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+    </include-fragment>
+  </details-menu>
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
           <a href="https://github.com/hp1598/AIassignments/find/master" class="js-pjax-capture-input btn btn-sm BtnGroup-item" data-pjax="" data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="1_1.py" class="btn btn-sm BtnGroup-item" tabindex="0" role="button">
+          <clipboard-copy value="1_5.py" class="btn btn-sm BtnGroup-item" tabindex="0" role="button">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="https://github.com/hp1598/AIassignments"><span>AIassignments</span></a></span></span><span class="separator">/</span><strong class="final-path">1_1.py</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="https://github.com/hp1598/AIassignments"><span>AIassignments</span></a></span></span><span class="separator">/</span><strong class="final-path">1_5.py</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
         <a href="https://github.com/hp1598/AIassignments/find/master" class="js-pjax-capture-input btn btn-sm BtnGroup-item" data-pjax="" data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="1_1.py" class="btn btn-sm BtnGroup-item" tabindex="0" role="button">
+        <clipboard-copy value="1_5.py" class="btn btn-sm BtnGroup-item" tabindex="0" role="button">
           Copy path
         </clipboard-copy>
       </div>
@@ -912,15 +859,15 @@
   <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
       <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
         <span class="pr-md-4 f6">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51377187" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hp1598"><img class="avatar" src="./1_1_files/51377187" width="20" height="20" alt="@hp1598"></a>
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51377187" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hp1598"><img class="avatar" src="./1_5_files/51377187" width="20" height="20" alt="@hp1598"></a>
           <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51377187" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hp1598">hp1598</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Create 1_1.py" class="link-gray" href="https://github.com/hp1598/AIassignments/commit/94f7eab22069e34014ded6f8834483dfed6d5a8b">Create 1_1.py</a>
+              <a data-pjax="true" title="Create 1_5.py" class="link-gray" href="https://github.com/hp1598/AIassignments/commit/263b17a9555dfdc0966f9c5dd42285623c27028d">Create 1_5.py</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="https://github.com/hp1598/AIassignments/commit/94f7eab22069e34014ded6f8834483dfed6d5a8b" data-pjax="">94f7eab</a>
-          <relative-time datetime="2019-06-12T16:00:52Z" title="Jun 12, 2019, 9:30 PM GMT+5:30">22 minutes ago</relative-time>
+          <a class="pr-2 text-mono link-gray" href="https://github.com/hp1598/AIassignments/commit/263b17a9555dfdc0966f9c5dd42285623c27028d" data-pjax="">263b17a</a>
+          <relative-time datetime="2019-06-12T16:10:45Z" title="Jun 12, 2019, 9:40 PM GMT+5:30">14 minutes ago</relative-time>
         </span>
       </div>
 
@@ -929,7 +876,7 @@
         <summary class="btn-link" aria-haspopup="dialog" role="button">
           <span><strong>1</strong> contributor</span>
         </summary>
-        <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast" aria-label="Users who have contributed to this file" src="/hp1598/AIassignments/contributors/master/1_1.py/list" preload="" role="dialog" aria-modal="true">
+        <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast" aria-label="Users who have contributed to this file" src="/hp1598/AIassignments/contributors/master/1_5.py/list" preload="" role="dialog" aria-modal="true">
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog="">
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -955,15 +902,15 @@
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
       3 lines (2 sloc)
       <span class="file-info-divider"></span>
-    92 Bytes
+    70 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="https://github.com/hp1598/AIassignments/raw/master/1_1.py">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="https://github.com/hp1598/AIassignments/blame/master/1_1.py">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="https://github.com/hp1598/AIassignments/commits/master/1_1.py">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="https://github.com/hp1598/AIassignments/raw/master/1_5.py">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="https://github.com/hp1598/AIassignments/blame/master/1_5.py">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="https://github.com/hp1598/AIassignments/commits/master/1_5.py">History</a>
     </div>
 
 
@@ -972,12 +919,12 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="https://github.com/hp1598/AIassignments/edit/master/1_1.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="G8lEEDDzzTfCbR2iBwRSJFDkK5j8v2mxrBP9PIUyA+aBe1M63YWFOZSS7X/RsTxPMJsGkXQhVxIUzejljCV4Vw==">
+            <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="https://github.com/hp1598/AIassignments/edit/master/1_5.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="SDX+jQZI+J6qcXMRXo7h8NEM4TADpOAC0PRxV8aFJMwRrxclgGTTIOHBuIIPXyWkbVm+3wNRnFN9NJEthFRwOA==">
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit" aria-label="Edit this file" data-hotkey="e" data-disable-with="">
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="https://github.com/hp1598/AIassignments/delete/master/1_1.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="7LQIfAV2Psf7ljIobwCbPxKayB6QhJjCyLVSCVmtYF8BOU5y6B2QOLb0mo8o4Jepdu/QhY9/jwlosSz56oTDXw==">
+          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="https://github.com/hp1598/AIassignments/delete/master/1_5.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="ygW1H8bagk3yBrEuBG7IabFAcWBi0yuiIhpYRSb5DPQiUFVowsBT9MMXXd18pRnZFwlBdd6fxE/tEO+VUZT7QQ==">
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit" aria-label="Delete this file" data-disable-with="">
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
             </button>
@@ -995,11 +942,11 @@
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tbody><tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">population<span class="pl-k">=</span>{<span class="pl-s"><span class="pl-pds">"</span>Shanghai<span class="pl-pds">"</span></span>:<span class="pl-c1">17.8</span>,<span class="pl-s"><span class="pl-pds">"</span>Istanbul<span class="pl-pds">"</span></span>:<span class="pl-c1">13.3</span>,<span class="pl-s"><span class="pl-pds">"</span>Karachi<span class="pl-pds">"</span></span>:<span class="pl-c1">13.0</span>,<span class="pl-s"><span class="pl-pds">"</span>Mumbai<span class="pl-pds">"</span></span>:<span class="pl-c1">12.5</span>}</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">names<span class="pl-k">=</span>[<span class="pl-s"><span class="pl-pds">"</span>carol<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>Albert<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>Ben<span class="pl-pds">"</span></span>,<span class="pl-s"><span class="pl-pds">"</span>Donna<span class="pl-pds">"</span></span>]</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">print</span>(population)</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">print</span>(<span class="pl-s"><span class="pl-pds">"</span>&amp;<span class="pl-pds">"</span></span>.join(<span class="pl-c1">sorted</span>(names)))</td>
       </tr>
 </tbody></table>
 
@@ -1011,7 +958,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines" tabindex="0">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink" tabindex="0">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="https://github.com/hp1598/AIassignments/blame/263b17a9555dfdc0966f9c5dd42285623c27028d/1_1.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="https://github.com/hp1598/AIassignments/blame/263b17a9555dfdc0966f9c5dd42285623c27028d/1_5.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="https://github.com/hp1598/AIassignments/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1026,13 +973,13 @@
   <details class="details-reset details-overlay details-overlay-dark">
     <summary data-hotkey="l" aria-label="Jump to line" role="button"></summary>
     <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line" role="dialog" aria-modal="true">
-      <!-- '"` --><!-- </textarea></xmp> --><form class="js-jump-to-line-form Box-body d-flex" action="https://github.com/hp1598/AIassignments/blob/master/1_1.py" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+      <!-- '"` --><!-- </textarea></xmp> --><form class="js-jump-to-line-form Box-body d-flex" action="https://github.com/hp1598/AIassignments/blob/master/1_5.py" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
         <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line…" aria-label="Jump to line" autofocus="">
         <button type="submit" class="btn" data-close-dialog="">Go</button>
 </form>    </details-dialog>
   </details>
 
-    <div class="Popover anim-scale-in js-tagsearch-popover" hidden="" data-tagsearch-url="/hp1598/AIassignments/find-symbols" data-tagsearch-ref="master" data-tagsearch-path="1_1.py" data-tagsearch-lang="Python" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:191598912,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:242F03:3370BA:5D012654&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_1.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="28c962031849dfce0b94126c39061d4d5c8a0a00f531639b8f37f3a8d21e1722">
+    <div class="Popover anim-scale-in js-tagsearch-popover" hidden="" data-tagsearch-url="/hp1598/AIassignments/find-symbols" data-tagsearch-ref="master" data-tagsearch-path="1_5.py" data-tagsearch-lang="Python" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:191598912,&quot;ref&quot;:&quot;master&quot;,&quot;client_id&quot;:&quot;1435069205.1538298545&quot;,&quot;originating_request_id&quot;:&quot;EF34:202D:2442D7:338DA0:5D01273A&quot;,&quot;originating_url&quot;:&quot;https://github.com/hp1598/AIassignments/blob/master/1_5.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/hp1598/AIassignments&quot;,&quot;user_id&quot;:51377187}}" data-hydro-click-hmac="46b12de644b608d782ffa87ed03e53b4ee86f27aa3c734c44abb19a8da865cac">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto">
     </div>
@@ -1103,21 +1050,21 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha512-CscuM031OY1b4Y69qXfPdzYnn+kLXLsTJaUlY6t+FbKFfPAQZt2SiWINzBKgCEz9EugSgf9ZCeAtF4M7EIIq0A==" type="application/javascript" src="./1_1_files/frameworks-ce314189.js.download"></script>
+    <script crossorigin="anonymous" integrity="sha512-CscuM031OY1b4Y69qXfPdzYnn+kLXLsTJaUlY6t+FbKFfPAQZt2SiWINzBKgCEz9EugSgf9ZCeAtF4M7EIIq0A==" type="application/javascript" src="./1_5_files/frameworks-ce314189.js.download"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-KAj4sptW1HgORMpnGgRvrQhhtO7TJTsOAa9/Axl8kO1urMrNGjbcXQHl8YjHzHfXIfWy4dfNRg1lSNknOevdGA==" type="application/javascript" src="./1_1_files/github-bootstrap-fce3c59a.js.download"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-KAj4sptW1HgORMpnGgRvrQhhtO7TJTsOAa9/Axl8kO1urMrNGjbcXQHl8YjHzHfXIfWy4dfNRg1lSNknOevdGA==" type="application/javascript" src="./1_5_files/github-bootstrap-fce3c59a.js.download"></script>
     
     
     
   <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden="">
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
-    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="https://github.com/hp1598/AIassignments/blob/master/1_1.py">Reload</a> to refresh your session.</span>
-    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="https://github.com/hp1598/AIassignments/blob/master/1_1.py">Reload</a> to refresh your session.</span>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="https://github.com/hp1598/AIassignments/blob/master/1_5.py">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="https://github.com/hp1598/AIassignments/blob/master/1_5.py">Reload</a> to refresh your session.</span>
   </div>
   <template id="site-details-dialog"></template>
 
-  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;"></div>
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none; top: 88px; left: 220.313px; z-index: 100;" tabindex="0">
+  <div class="Popover-message Popover-message--large Box box-shadow-large Popover-message--bottom-left" style="width:360px;"></div>
 </div>
 
   <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
